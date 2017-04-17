@@ -32,7 +32,7 @@
 	</Item>
 	<Item Name="RT Single-Board RIO" Type="RT Single-Board RIO">
 		<Property Name="alias.name" Type="Str">RT Single-Board RIO</Property>
-		<Property Name="alias.value" Type="Str">10.30.189.146</Property>
+		<Property Name="alias.value" Type="Str">10.30.189.130</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,VxWorks;CPU,PowerPC;DeviceCode,758B;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">758B</Property>
 		<Property Name="crio.family" Type="Str">901x</Property>
@@ -3630,6 +3630,7 @@ DirectoryIndex index.htm
 			<Item Name="niLvFpga_ReadFifo_sbRIO-9626.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/sbRIO-9626/niLvFpga_ReadFifo_sbRIO-9626.vi"/>
 			<Item Name="niLvFpga_ConfigureFifo_sbRIO-9626.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/sbRIO-9626/niLvFpga_ConfigureFifo_sbRIO-9626.vi"/>
 			<Item Name="niLvFpga_ReadFifo_Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/Dynamic/niLvFpga_ReadFifo_Dynamic.vi"/>
+			<Item Name="Hella CAN.vi" Type="VI" URL="../SubVIs/Hella CAN.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="PS Control (OLD)" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
